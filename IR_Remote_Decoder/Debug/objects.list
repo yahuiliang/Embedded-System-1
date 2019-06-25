@@ -1,0 +1,4 @@
+"src/lcd_api_starter_code.o"
+"src/remote_decoder.o"
+"startup/startup_stm32.o"
+"startup/sysmem.o"
