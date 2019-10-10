@@ -2,6 +2,6 @@
 ## Description:
 This is the final project from the course Embedded System 1. The processor of the embedded system was STM32F446RE, and the board schema is shown below:
 
-![STM32F446RE](../STM32F446RE.jpg)
+![STM32F446RE](../STM32F446RE.jpg) Figure: The processor for the embedded system
 
-![dev_board_schema](../devboard_schematic_V1.jpg)
+![dev_board_schema](../devboard_schematic_V1.jpg) Figure: The embedded system schema
